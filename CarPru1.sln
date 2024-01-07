@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPru1.Common", "CarPru1.Common\CarPru1.Common.csproj", "{A01FD98C-332B-4134-BD28-630E411848AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPru1.API", "CarPru1.API\CarPru1.API.csproj", "{0C68CCC5-BF55-47A5-B99D-A53BA4C99B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01FD98C-332B-4134-BD28-630E411848AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01FD98C-332B-4134-BD28-630E411848AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01FD98C-332B-4134-BD28-630E411848AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01FD98C-332B-4134-BD28-630E411848AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C68CCC5-BF55-47A5-B99D-A53BA4C99B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C68CCC5-BF55-47A5-B99D-A53BA4C99B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C68CCC5-BF55-47A5-B99D-A53BA4C99B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C68CCC5-BF55-47A5-B99D-A53BA4C99B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6338B1EE-27BF-47D4-9F38-0969B3B6AC05}
+	EndGlobalSection
+EndGlobal
